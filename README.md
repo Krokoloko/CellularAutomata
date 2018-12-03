@@ -6,5 +6,4 @@ By constantly displaying a new generation on top each other, you will get a visu
 To test this you need python 3 installed and import the tkinter package to make it work.
 You can mess around with the rules and run the _\_main_\_.py script.
 
-Results may vary but here are some interesting results with rules i came up with.
-[[http://www.daanruting.com/content/Gifs/CellularAutomata.gif]]
+Results may vary but here are some interesting ![rules](http://www.daanruting.com/content/Gifs/CellularAutomata.gif) i came up with.
